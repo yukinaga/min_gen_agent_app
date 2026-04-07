@@ -6,13 +6,20 @@ https://www.udemy.com/course/gen-ai-agent/?referralCode=D3A41C126ECB19F5E126
  AI技術を「使う」だけでなく「作る」側になることで、真のAIリテラシーを身につけることができます。  
 本講座では、OpenAI APIとOpenAI Agents SDKを活用し、Pythonによる実装とGradioを使った直感的なインターフェース構築を通じて、実用的な生成AIアプリケーションとAIエージェントアプリの開発手法を学びます。  
   
-講座の内容は以下の通りです。  
-**Section1. 生成AIアプリ開発の基礎**  
-→ 生成AI/AIエージェントの基本概念を理解し、Google Colabの使い方、AIを活用したPython学習法、Gradioによるインターフェース構築の基礎、OpenAI API Keyの設定方法を学びます。  
-**Section2. 生成AIアプリの開発**  
-→ 実際に動作する生成AIアプリケーションを開発します。対話型チャットボットアプリの構築から始めて、様々な実装スキルを段階的に身につけていきます。  
-**Section3. AIエージェントアプリの開発**  
-→ 複数の機能を組み合わせたAIエージェントアプリの開発に挑戦します。外部ツールとの連携やタスクの自動実行など、AIエージェントならではの機能を実装し、より実用的なアプリケーション開発のスキルを習得します。  
+## 【無料メルマガ「我妻幸長のAIアトラス」】
+読みやすく体系的な「AIの地図」を、毎週お届けします。  
+AIの「今週の重要ニュース」を3つに絞って、背景と文脈とともに丁寧に解説します。  
+読了5分、忙しい方でも無理なく続けられる分量なので、ぜひお気軽にご登録ください。  
+[我妻幸長のAIアトラス](https://fantastic-thinker-3267.kit.com/entry)  
+
+## 【Live! 人工知能】
+毎月1回、Udemyコースの特別編をYouTubeライブ形式で配信しています。  
+[Live! 人工知能](https://liveai.connpass.com/)  
   
-X: https://x.com/yuky_az  
-Instagram: https://www.instagram.com/yuky_az/  
+## 【Xアカウント】
+AIの最新情報、講師の考察などを発信しています。  
+[講師のXアカウント](https://x.com/yuky_az)  
+  
+## 【Udemyコースの割引】
+講師のUdemyコースについて、最新の割引情報は以下のページでご確認いただけます。  
+[Udemyコースの割引一覧](https://note.com/yuky_az/n/n186fb6b5d332)  
